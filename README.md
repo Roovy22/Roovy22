@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Roovy22
+- 👀 I’m interested in space engineering, physics, programming and gaming.
+- 🌱 I’m currently learning C (with Arduino especially), java and php.
+- 💞️ I’m looking to collaborate on all teh things that are mentioned above
+- 📫 On Discord I am Roovy#9588.
